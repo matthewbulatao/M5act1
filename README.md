@@ -7,8 +7,7 @@
 <body BGCOLOR="red" Text="white">
 <body style="text-align:center;">	
 	<hr>
-	<h1 style="font-size:60px;"><i><ins>Red Tulips Flower</i></ins></h1>
-</body>
+	<h1 style="font-size:60px;"><i><ins>Red Tulips Flower </h1></i></ins>
 <table border="2">
 	<tr>
 		<th rowspan="2"><img src="tulips.jpg" alt="Red Tulips" width="230" height="230"></th> </tr>
